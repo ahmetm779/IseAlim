@@ -1,0 +1,16 @@
+C:\Users\100103\Desktop\Ders\IseAlim\IseAlim\bin\Debug\net7.0-windows\IseAlim.exe
+C:\Users\100103\Desktop\Ders\IseAlim\IseAlim\bin\Debug\net7.0-windows\IseAlim.deps.json
+C:\Users\100103\Desktop\Ders\IseAlim\IseAlim\bin\Debug\net7.0-windows\IseAlim.runtimeconfig.json
+C:\Users\100103\Desktop\Ders\IseAlim\IseAlim\bin\Debug\net7.0-windows\IseAlim.dll
+C:\Users\100103\Desktop\Ders\IseAlim\IseAlim\bin\Debug\net7.0-windows\IseAlim.pdb
+C:\Users\100103\Desktop\Ders\IseAlim\IseAlim\obj\Debug\net7.0-windows\IseAlim.Form1.resources
+C:\Users\100103\Desktop\Ders\IseAlim\IseAlim\obj\Debug\net7.0-windows\IseAlim.csproj.GenerateResource.cache
+C:\Users\100103\Desktop\Ders\IseAlim\IseAlim\obj\Debug\net7.0-windows\IseAlim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\100103\Desktop\Ders\IseAlim\IseAlim\obj\Debug\net7.0-windows\IseAlim.AssemblyInfoInputs.cache
+C:\Users\100103\Desktop\Ders\IseAlim\IseAlim\obj\Debug\net7.0-windows\IseAlim.AssemblyInfo.cs
+C:\Users\100103\Desktop\Ders\IseAlim\IseAlim\obj\Debug\net7.0-windows\IseAlim.csproj.CoreCompileInputs.cache
+C:\Users\100103\Desktop\Ders\IseAlim\IseAlim\obj\Debug\net7.0-windows\IseAlim.dll
+C:\Users\100103\Desktop\Ders\IseAlim\IseAlim\obj\Debug\net7.0-windows\refint\IseAlim.dll
+C:\Users\100103\Desktop\Ders\IseAlim\IseAlim\obj\Debug\net7.0-windows\IseAlim.pdb
+C:\Users\100103\Desktop\Ders\IseAlim\IseAlim\obj\Debug\net7.0-windows\IseAlim.genruntimeconfig.cache
+C:\Users\100103\Desktop\Ders\IseAlim\IseAlim\obj\Debug\net7.0-windows\ref\IseAlim.dll
